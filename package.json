@@ -1,0 +1,30 @@
+{
+  "name": "news-chatter",
+  "version": "1.0.0",
+  "description": "comment on the latest news",
+  "main": "index.html",
+  "scripts": {
+    "test": "testThis"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmilham/news-chatter.git"
+  },
+  "keywords": [
+    "news",
+    "chatter"
+  ],
+  "author": "Daniel Milham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmilham/news-chatter/issues"
+  },
+  "homepage": "https://github.com/Dmilham/news-chatter#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.7.1"
+  }
+}
