@@ -62,7 +62,7 @@ app.post("/submit", function(req, res) {
   });
 });
 
-
+// GET 
 ===============================================================
 // Find all books marked as read
 app.get("/read", function(req, res) {
